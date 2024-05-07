@@ -1,0 +1,5 @@
+Virtual contest is a way to take part in past contest,
+as close as possible to participation on time.
+It is supported only ICPC mode for virtual contests. 
+If you've seen these problems, 
+a virtual contest is not for you - solve these problems in the archive.
